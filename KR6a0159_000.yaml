@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6a0159/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 分別功德論
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T25/T25n1507.xml
+    old_id: T25n1507
+hash: sha256:a678573ba5a35076111272a800fcaae30baa12677397255a5e46a23f3cfccf7f

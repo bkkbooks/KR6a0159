@@ -1,0 +1,86 @@
+canonical_identifier: bkk:krp/KR6a0159/T/v1
+canonical_location: https://kanripo.org/bkk/KR6a0159/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 分別功德論
+  identifiers:
+    krp: KR6a0159
+    cbeta: T25n1507
+    cbeta_old_id: T25n1507
+    authorityid: CA0001016
+    json_key: T1507
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T25/T25n1507.xml
+    old_id: T25n1507
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6a0159_000-T.yaml, hash: 'sha256:a678573ba5a35076111272a800fcaae30baa12677397255a5e46a23f3cfccf7f'}
+  - {seq: 1, filename: KR6a0159_001-T.yaml, hash: 'sha256:b3e13bd6851aa17ebe825861212fb395f1ca8c3442c1795c4cd2db63e1d56fb5'}
+  - {seq: 2, filename: KR6a0159_002-T.yaml, hash: 'sha256:03b93b57eae65a510d30d4259680d4f1a96102b01c2bc769c85d39fe98b55a17'}
+  - {seq: 3, filename: KR6a0159_003-T.yaml, hash: 'sha256:7c7952d451a049c01fbe53d5782758168e34e2909286f8517ebe3305680458cc'}
+  - {seq: 4, filename: KR6a0159_004-T.yaml, hash: 'sha256:e0a6cf617122863ef32c52a4e14102d2b41624d9f209ad7118a02396839595e1'}
+  - {seq: 5, filename: KR6a0159_005-T.yaml, hash: 'sha256:ff06a59ef01a80173c7fee68eb8253064583330e7917372b8e99d59c54edd37c'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6a0159_000-T.markers.yaml, hash: 'sha256:a3da9dabf22c1bbd1557b819da0b196906c5bfc6ce3fd579aad43a0089e4b890'}
+  - {seq: 1, role: markers, filename: assets/KR6a0159_001-T.markers.yaml, hash: 'sha256:a7f0447c1cd90d5559e22bb2e350a8be97262590d6e1c3fed99de368536700b1'}
+  - {seq: 2, role: markers, filename: assets/KR6a0159_002-T.markers.yaml, hash: 'sha256:60f01d26cb8e652d8a7c3b232afe351b427d9187647629beadf8038786716058'}
+  - {seq: 3, role: markers, filename: assets/KR6a0159_003-T.markers.yaml, hash: 'sha256:dee9cd8ca38a8cbd37ae087ec423c09aded23374acd96ae358f0f42099bd7bee'}
+  - {seq: 4, role: markers, filename: assets/KR6a0159_004-T.markers.yaml, hash: 'sha256:6c47b874459e0179fbfc11c6250025e2052e13c3288c7ad5fdf374ec0aabb8be'}
+  - {seq: 5, role: markers, filename: assets/KR6a0159_005-T.markers.yaml, hash: 'sha256:b3bfe57912ee90928985dfb4a88acd2cfaba59e9705538a685759b1601c17642'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6a0159_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 4548
+  label: 分別功德論卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6a0159_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 6065
+  label: 分別功德論卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6a0159_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 4100
+  label: 分別功德論卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6a0159_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 9143
+  label: 分別功德論卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6a0159_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 8209
+  label: 分別功德論卷第五
+  type: juan
+  level: 1
+hash: sha256:9bf96bab5ef352bc5790a479854f0ae69bc0939ef4bc0be294725602a09561a0
